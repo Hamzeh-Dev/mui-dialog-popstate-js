@@ -1,5 +1,5 @@
 
-# Centralized Dialog Management with React and
+# Centralized Dialog Management with React
 
 This project demonstrates how to manage multiple dialogs and sub-dialogs in a React application ( Vite ) using a centralized state with Context API. It includes handling dialogs across different components and ensuring proper behavior when navigating back using the browser's history.
 
